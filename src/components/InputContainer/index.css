@@ -1,0 +1,21 @@
+.input-container {
+  background-color: #f8fafc;
+  display: flex;
+  align-items: center;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  list-style: none;
+}
+.icon {
+  width: 20px;
+  margin-right: 8px;
+  margin-left: 10px;
+}
+.input {
+  color: #b6c3ca;
+  border: none;
+  border-left: 1px solid #b6c3ca;
+  padding: 8px;
+  outline: none;
+  font-family: 'Roboto';
+}
